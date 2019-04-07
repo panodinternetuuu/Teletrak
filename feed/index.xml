@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Teletrak</title>
+	<atom:link href="/https://panodinternetuuu.github.io/Teletrak/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://panodinternetuuu.github.io/Teletrak</link>
+	<description>Kolejna witryna oparta na WordPressie</description>
+	<lastBuildDate>
+	Sun, 07 Apr 2019 19:14:02 +0000	</lastBuildDate>
+	<language>pl-PL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<item>
+		<title>Witaj, świecie!</title>
+		<link>/https://panodinternetuuu.github.io/Teletrak/2019/04/07/witaj-swiecie/</link>
+				<comments>/https://panodinternetuuu.github.io/Teletrak/2019/04/07/witaj-swiecie/#comments</comments>
+				<pubDate>Sun, 07 Apr 2019 19:14:02 +0000</pubDate>
+		<dc:creator><![CDATA[Maciej Lewandowski]]></dc:creator>
+				<category><![CDATA[Bez kategorii]]></category>
+
+		<guid isPermaLink="false">/https://panodinternetuuu.github.io/Teletrak/?p=1</guid>
+				<description><![CDATA[Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!]]></description>
+								<content:encoded><![CDATA[
+<p>Witamy w WordPressie. To jest twój pierwszy post. Edytuj go lub usuń, a następnie zacznij pisać!</p>
+]]></content:encoded>
+							<wfw:commentRss>/https://panodinternetuuu.github.io/Teletrak/2019/04/07/witaj-swiecie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>
